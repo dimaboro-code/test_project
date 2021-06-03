@@ -1,6 +1,11 @@
-We are the champions, my friends,
-And we'll keep on fighting 'til the end.
-We are the champions.
-We are the champions.
-No time for losers
-'Cause we are the champions of the world.
+1 124.66666666666667
+2 133.0
+3 135.55555555555554
+4 140.42857142857142
+5 144.625
+6 156.9
+7 158.42857142857142
+8 163.85714285714286
+9 170.33333333333334
+10 169.875
+11 178.0
