@@ -1,1 +1,2 @@
-out.txt
+test_project\venv\**
+test_project\.idea\**
