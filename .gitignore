@@ -1,2 +1,2 @@
-test_project\venv\**
-test_project\.idea\**
+test_project\venv\
+test_project\.idea\
