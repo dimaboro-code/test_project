@@ -1,3 +1,5 @@
+$ cat .git
+
 test_project\venv\
 test_project\.idea\
 venv\
